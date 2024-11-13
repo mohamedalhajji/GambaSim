@@ -47,7 +47,7 @@
 		},
 		{
 			"Name": "RefExplorer",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b9d5568cba4845749f57fd0e027d447f"
 		}
 	],
