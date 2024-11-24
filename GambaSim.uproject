@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.4",
+	"EngineAssociation": "5.5",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -10,11 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "CrystalNodes",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/795d430fe08640bcb9f3f52c996a62a0"
 		},
 		{
 			"Name": "ElectronicNodes",
@@ -32,11 +27,6 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a00eb1e478ae4a8fb655aa22f9125b07"
 		},
 		{
-			"Name": "DLSS",
-			"Enabled": true,
-			"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/product/nvidia-dlss"
-		},
-		{
 			"Name": "BetterDebug",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/fc6e60a69f9d4125aee732a0f9dd86bf",
@@ -49,6 +39,11 @@
 			"Name": "RefExplorer",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b9d5568cba4845749f57fd0e027d447f"
+		},
+		{
+			"Name": "FlatNodes",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b719437f3fb54c259b34227363df8cab"
 		}
 	],
 	"TargetPlatforms": [
