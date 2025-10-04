@@ -88,6 +88,9 @@
 			]
 		}
 	],
+	"AdditionalPluginDirectories": [
+		"Plugins"
+	],
 	"TargetPlatforms": [
 		"Windows"
 	]
